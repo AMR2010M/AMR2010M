@@ -1,7 +1,7 @@
 - 👋 Hi, I’m amr Khaled kilany
 - 👀 I’m interested in web and app development
 - 💓i can make any frontend website or small app for you for Free ✨⭐
-- 😇 avaiable only in 🌞⛱️ summer
+-
 - 🌱 I’m currently learning php and backend langugrs
 - 
 - 📫 How to reach me  whatsapp:01227348290
