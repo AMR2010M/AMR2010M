@@ -1,6 +1,6 @@
 👋 Hi, I’m <h3>Amr kilany from Egypt</h3></h1>,
 - 
-- 👀 I love '429 too many passion',
+- 👀 I love ' error:429 too many passion',
 - 
 -⭐im a frontend engineer,
 skills:
