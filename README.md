@@ -12,10 +12,18 @@ Skills: HTML / CSS / JS / Tailwind / Butterfly CSS (Founder)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AMR2010M&theme=dark&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AMR2010M&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=AMR2010M&theme=dark)
 
 ## 💻 Activity
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AMR2010M&color=blue)
 
-⚡ Loading more stats...
+## 🚀 Recent Projects
+
+### [Butterfly CSS](https://github.com/AMR2010M/butterfly-css)
+A beautiful and lightweight CSS framework designed for modern web development. Founded by me with a focus on simplicity and elegance.
+
+### [Ze Almajaz](https://github.com/AMR2010M/ze-almajaz)
+An innovative project bringing creativity to life. Building something special!
+
+⚡ More projects coming soon...
