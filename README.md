@@ -1,13 +1,14 @@
-☺️ Hi, I'm Amr Kilany
+<h1> ☺️Hi, I'm Amr Kilany</h1>
 
-🎨I'm a Frontend Engineer
-Skills: HTML / CSS / JS / Tailwind / Butterfly CSS (Founder)/supabase/ loading......
+<h3>🎨I'm a Frontend Engineer
+Skills: HTML / CSS / JS / Tailwind / Butterfly CSS (Founder)/supabase/</h3>
+
 >[!CAUTION]
 >Failed to fetch request.moreskills loading.....
 
 ### ⚡ About Me
-- 💞 I love: **Web Development**, **Birds** 🦜, **Poetry** 📜 & **Maths** 📐
-- 🚀 Im at senior 2
+- 💞 I love: **Web Development**, **Birds** 🦜, **arduino** 💡 & **Maths** 📐
+- 📚 Im at senior 2
 
 ## my latest followers:
 
