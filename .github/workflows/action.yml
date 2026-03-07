@@ -1,0 +1,15 @@
+name: Get Latest Followers
+on:
+  schedule:
+    - cron: '0 * * *' # يتم التحديث كل 24 ساعة
+  workflow_dispatch: # يسمح لك بتشغيله يدوياً الآن
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: snerks/github-followers-action@master
+        with:
+          max_followers: 10 # يمكنك تغيير العدد كما تحب
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
