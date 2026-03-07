@@ -12,6 +12,7 @@ Skills: HTML / CSS / JS / Tailwind / Butterfly CSS (Founder)/
 - 💞 I love: **Web Development**, **Birds** 🦜, **Poetry** 📜 & **Maths** 📐
 - 🚀 Im at senior 2
 
+## my latest followers:
 
 
 
