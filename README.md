@@ -1,10 +1,25 @@
 <h1> ☺️Hi, I'm Amr Kilany</h1>
 JUST A 16 YEAR OLD STUDENT HAVING THE DESIRE TO MAKE SOMETHING CREATIVE
-<h3>🎨I'm a Frontend Engineer
-Skills: HTML / CSS / JS / Tailwind / Butterfly CSS (Founder)/supabase/</h3>
+<h3>🎨I'm a Frontend Engineer</h3>
+  
+**Skills:**
+
+  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
 
 >[!CAUTION]
 >Failed to fetch request.moreskills loading.....
+
+
+
+
 
 ### ⚡ About Me
 - 💞 I love: **Web Development**, **Birds** 🦜, **arduino** 💡 & **Maths** 📐
