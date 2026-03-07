@@ -5,8 +5,8 @@ just a 16 year old student having the desire to make something creative
 
 🎨I'm a Frontend Engineer
 Skills: HTML / CSS / JS / Tailwind / Butterfly CSS (Founder)/
-
-Failed to fetch request.moreskills
+>[!CAUTION]
+>Failed to fetch request.moreskills
 loading.....
 
 
