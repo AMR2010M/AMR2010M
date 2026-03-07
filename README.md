@@ -16,10 +16,12 @@ Skills: HTML / CSS / JS / Tailwind / Butterfly CSS (Founder)/supabase/</h3>
 
 
 
-## Activity🐝
+## Activity🐝  
+![Profile Views](https://komarev.com/ghpvc/?username=AMR2010M&color=yellow)
+
 ![stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AMR2010M&show_icons=true&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=AMR2010M&color=yellow)
+
 
 ## 🚀 Recent Projects
 
