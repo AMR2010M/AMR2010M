@@ -24,14 +24,20 @@ Skills: HTML / CSS / JS / Tailwind / Butterfly CSS (Founder)/supabase/</h3>
 ## 🚀 Recent Projects
 
 ### [Butterfly CSS](https://butterfly-css.netlify.app/)
+
 <h4>
-an attribute based css mini framework that lets you  fly out of the box 
-<img width="600" height="523" alt="لقطة شاشة 2026-03-02 230252" src="https://github.com/user-attachments/assets/12fbbd3f-d6e9-4875-9da1-b76caa76d996" />
+  
+an attribute based css mini framework that lets you  fly out of the box !
+
 </h4>
+<img width="600" height="423" alt="لقطة شاشة 2026-03-02 230252" src="https://github.com/user-attachments/assets/12fbbd3f-d6e9-4875-9da1-b76caa76d996" />
+
 ### [Ze Almajaz (under construction)](https://zealmajaz.netlify.app/) 
+
 <h4>
+  
   Ai powered and controlled social media for muslims 
   </h4>
-<img width="880" height="423" alt="لقطة شاشة 2026-03-07 033021" src="https://github.com/user-attachments/assets/77da97aa-97c8-43a4-84e9-37810940f5ed" />
+<img width="580" height="423" alt="لقطة شاشة 2026-03-07 033021" src="https://github.com/user-attachments/assets/77da97aa-97c8-43a4-84e9-37810940f5ed" />
 
 ⚡ More projects coming soon...
