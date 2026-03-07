@@ -1,7 +1,7 @@
 ☺️ Hi, I'm Amr Kilany
 
 🎨I'm a Frontend Engineer
-Skills: HTML / CSS / JS / Tailwind / Butterfly CSS (Founder)/
+Skills: HTML / CSS / JS / Tailwind / Butterfly CSS (Founder)/supabase/ loading......
 >[!CAUTION]
 >Failed to fetch request.moreskills loading.....
 
