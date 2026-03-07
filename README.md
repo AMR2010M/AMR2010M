@@ -19,7 +19,7 @@ loading.....
 
 ### [Butterfly CSS](https://github.com/AMR2010M/butterfly-css)
 an attribute based css mini framework lets you  fly out of the box 
-### [Ze Almajaz](https://github.com/AMR2010M/ze-almajaz) 
+### [Ze Almajaz (under construction)](https://github.com/AMR2010M/ze-almajaz) 
   Ai powered and controlled social media for muslims 
 
 ⚡ More projects coming soon...
