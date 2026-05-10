@@ -27,9 +27,9 @@ JUST A 16 YEAR OLD STUDENT WITH THE DESIRE TO MAKE SOMETHING CREATIVE
 
 ## my latest followers:
 
-
-<!-- FOLLOWERS:START -->
-<!-- FOLLOWERS:END -->
+<a href="https://github.com/AMR2010M/followers">
+  <img src="https://reporoster.com/followers/AMR2010M" alt="Followers" />
+</a>
 
 
 
