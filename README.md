@@ -27,9 +27,7 @@ JUST A 16 YEAR OLD STUDENT WITH THE DESIRE TO MAKE SOMETHING CREATIVE
 
 ## my latest followers:
 
-<a href="https://github.com/AMR2010M/followers">
-  <img src="https://reporoster.com/followers/AMR2010M" alt="Followers" />
-</a>
+[![Followers](https://img.shields.io/github/followers/AMR2010M?label=Followers&style=for-the-badge)](https://github.com/AMR2010M?tab=followers)
 
 
 
