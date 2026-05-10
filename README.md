@@ -25,8 +25,7 @@ JUST A 16 YEAR OLD STUDENT WITH THE DESIRE TO MAKE SOMETHING CREATIVE
 - 💞 I love: **Web Development**, **Birds** 🦜, **arduino** 💡 & **Maths** 📐
 - 📚 Im at senior 2
 
-## my latest followers:
-[![Followers](https://deno-visualizer.danitwo.com/api/followers?username=AMR2010M&limit=15&avatar_size=45)](https://github.com/AMR2010M/followers)
+
 ## Activity🐝  
 ![Profile Views](https://komarev.com/ghpvc/?username=AMR2010M&color=yellow)
 
