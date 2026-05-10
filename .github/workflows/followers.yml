@@ -11,7 +11,7 @@ jobs:
       - uses: actions/checkout@v4
       
       - name: Get Followers
-        uses: ahmadawais/unwrap-followers@master
+        uses: AMR2010M/unwrap-followers@master
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           username: AMR2010M
