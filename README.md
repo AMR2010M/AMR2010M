@@ -27,7 +27,9 @@ JUST A 16 YEAR OLD STUDENT WITH THE DESIRE TO MAKE SOMETHING CREATIVE
 
 ## my latest followers:
 
-<img width="992" height="393" alt="لقطة شاشة 2026-03-07 031108" src="https://github.com/user-attachments/assets/e65fe3e4-c3b4-48a7-b46f-405a954c65dc" />
+### 🤝 آخر المتابعين
+<!-- FOLLOWERS:START -->
+<!-- FOLLOWERS:END -->
 
 
 
