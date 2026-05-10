@@ -36,6 +36,7 @@ JUST A 16 YEAR OLD STUDENT WITH THE DESIRE TO MAKE SOMETHING CREATIVE
 
 ![stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AMR2010M&show_icons=true&theme=radical)
 
+![Snake animation](https://github.com/AMR2010M/AMR2010M/blob/output/github-snake.svg)
 
 
 ## 🚀 Recent Projects
