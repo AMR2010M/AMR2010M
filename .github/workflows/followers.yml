@@ -1,22 +1,18 @@
-name: Update Followers
+name: Followers Metrics
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *" # يحدث يومياً
   workflow_dispatch:
-
 jobs:
-  update-readme:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      
-      - name: Get Followers
-        uses: ahmadawais/unwrap-followers@master
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          username: AMR2010M
-          
-      - name: Commit & Push
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Update followers list"
+          user: AMR2010M
+          template: classic
+          base: "" # نتركها فارغة لنركز فقط على المتابعين
+          plugin_followers: yes
+          plugin_followers_limit: 10 # عدد المتابعين الذين تريد إظهار صورهم
+          filename: github-followers.svg
