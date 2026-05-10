@@ -17,7 +17,7 @@ JUST A 16 YEAR OLD STUDENT WITH THE DESIRE TO MAKE SOMETHING CREATIVE
 >[!CAUTION]
 >Failed to fetch request.moreskills loading.....
 
-
+##learning ai......
 
 
 
@@ -27,10 +27,7 @@ JUST A 16 YEAR OLD STUDENT WITH THE DESIRE TO MAKE SOMETHING CREATIVE
 
 ## my latest followers:
 
-
-<!-- UNWRAP-FOLLOWERS:START -->
-<!-- سيقوم الكود بوضع صور المتابعين هنا تلقائياً -->
-<!-- UNWRAP-FOLLOWERS:END -->
+![Followers](github-followers.svg)
 
 ## Activity🐝  
 ![Profile Views](https://komarev.com/ghpvc/?username=AMR2010M&color=yellow)
@@ -49,7 +46,7 @@ JUST A 16 YEAR OLD STUDENT WITH THE DESIRE TO MAKE SOMETHING CREATIVE
 an attribute based css mini framework that lets you  fly out of the box !
 
 </h4>
-<img width="600" height="423" alt="لقطة شاشة 2026-03-02 230252" src="https://github.com/user-attachments/assets/12fbbd3f-d6e9-4875-9da1-b76caa76d996" />
+<img width="600" height="223" alt="لقطة شاشة 2026-03-02 230252" src="https://github.com/user-attachments/assets/12fbbd3f-d6e9-4875-9da1-b76caa76d996" />
 
 ### [xenon script (under construction)]() 
 
