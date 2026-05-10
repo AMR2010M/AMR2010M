@@ -27,7 +27,7 @@ JUST A 16 YEAR OLD STUDENT WITH THE DESIRE TO MAKE SOMETHING CREATIVE
 
 ## my latest followers:
 
-### 🤝 آخر المتابعين
+
 <!-- FOLLOWERS:START -->
 <!-- FOLLOWERS:END -->
 
