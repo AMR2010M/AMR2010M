@@ -17,7 +17,7 @@ JUST A 16 YEAR OLD STUDENT WITH THE DESIRE TO MAKE SOMETHING CREATIVE
 >[!CAUTION]
 >Failed to fetch request.moreskills loading.....
 
-##learning ai......
+
 
 
 
@@ -27,7 +27,7 @@ JUST A 16 YEAR OLD STUDENT WITH THE DESIRE TO MAKE SOMETHING CREATIVE
 
 ## my latest followers:
 
-![Followers](github-followers.svg)
+![Followers](https://raw.githubusercontent.com/AMR2010M/AMR2010M/main/github-followers.svg)
 
 ## Activity🐝  
 ![Profile Views](https://komarev.com/ghpvc/?username=AMR2010M&color=yellow)
