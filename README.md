@@ -26,9 +26,7 @@ JUST A 16 YEAR OLD STUDENT WITH THE DESIRE TO MAKE SOMETHING CREATIVE
 - 📚 Im at senior 2
 
 ## my latest followers:
-
-![Followers](https://raw.githubusercontent.com/AMR2010M/AMR2010M/main/github-followers.svg)
-
+[![Followers](https://deno-visualizer.danitwo.com/api/followers?username=AMR2010M&limit=15&avatar_size=45)](https://github.com/AMR2010M/followers)
 ## Activity🐝  
 ![Profile Views](https://komarev.com/ghpvc/?username=AMR2010M&color=yellow)
 
