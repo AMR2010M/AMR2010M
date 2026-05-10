@@ -28,8 +28,9 @@ JUST A 16 YEAR OLD STUDENT WITH THE DESIRE TO MAKE SOMETHING CREATIVE
 ## my latest followers:
 
 
-
-[![My Followers](https://deno-visualizer.danitwo.com/api/followers?username=AMR2010M&limit=10&avatar_size=50)](https://github.com/AMR2010M?tab=followers)
+<!-- UNWRAP-FOLLOWERS:START -->
+<!-- سيقوم الكود بوضع صور المتابعين هنا تلقائياً -->
+<!-- UNWRAP-FOLLOWERS:END -->
 
 ## Activity🐝  
 ![Profile Views](https://komarev.com/ghpvc/?username=AMR2010M&color=yellow)
