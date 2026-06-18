@@ -53,6 +53,12 @@ thefirst arabic product hunting platform
 
 </h4>
 
+### [Arabinum](https://arabinum.amrzlabs.com/) 
+
+<h4>
+the browser that turns result into feed 
+
+</h4>
 
 
 
